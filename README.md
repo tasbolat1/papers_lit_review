@@ -1,6 +1,6 @@
 # papers_lit_review
 
-# RSS
+# RSS 2022
 
 1. ACID: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation [arxiv](https://arxiv.org/abs/2203.06856) [code and data](https://github.com/NVlabs/ACID) [website](https://b0ku1.github.io/acid/)
 
